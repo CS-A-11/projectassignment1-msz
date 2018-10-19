@@ -1,6 +1,8 @@
 # Hostlyte
 This is the link to our heroku deployment https://hostylte-git.herokuapp.com
-#ROUTES:
+
+# ROUTES:
+
 https://hostylte-git.herokuapp.com/listing  
 
 https://hostylte-git.herokuapp.com/listing/hostel
