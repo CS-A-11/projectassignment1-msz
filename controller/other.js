@@ -2,7 +2,9 @@
 /* GET 'about us' page */
 module.exports.about = function(req,res)
 {
-res.render('about');
+res.render('about',{
+  title:"Hostlyte| Largest Hostel Classified Portal"
+});
 };
 
 module.exports.faq = function(req,res)
