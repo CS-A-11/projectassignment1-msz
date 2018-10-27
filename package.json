@@ -1,0 +1,20 @@
+{
+  "name": "hostlyte",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "MSZ991",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  }
+}
